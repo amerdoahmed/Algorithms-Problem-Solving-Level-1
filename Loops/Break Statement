@@ -1,0 +1,15 @@
+static void FindNumberInTable()
+{
+	int arr[10] = { 10,20,30,40,50,60,70,80,90,100 };
+	int searchFor = 20;
+	for (int i = 0;i <= 10;i++)
+	{
+		cout << "We are at iteration " << i << endl;
+		if (searchFor==arr[i])
+		{
+			cout << endl << searchFor << " found in iteration " << i << endl << endl;
+			break;
+		}
+	}
+	
+}
