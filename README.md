@@ -1,2 +1,3 @@
 Description 
-This Repo we have C++ Basics
+C++ Basics with algorithms 
+step by step we make great work
