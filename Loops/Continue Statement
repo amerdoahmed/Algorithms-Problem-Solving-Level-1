@@ -1,0 +1,17 @@
+static void SumNumbersBelow50()
+{
+	int number;
+	int sum = 0;
+	for (int i = 1; i <= 5; i++)
+	{
+		cout << "Enter Number !\n";
+		cin >> number;
+		if (number > 50)
+		{
+			cout << "The number is greater than 50 and won't be calculated\n";
+			continue;
+		};
+		sum = sum + number;
+	}
+	cout << sum << endl;
+}
