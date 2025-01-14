@@ -1,0 +1,4 @@
+﻿  Algorithms&ProblemSolving_4.cpp
+C:\Users\ahmed\Programming Advice\Algorithms&ProblemSolving_4\Algorithms&ProblemSolving_4\Algorithms&ProblemSolving_4.cpp(19,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmed\Programming Advice\Algorithms&ProblemSolving_4\Algorithms&ProblemSolving_4\Algorithms&ProblemSolving_4.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Algorithms&ProblemSolving_4.vcxproj -> C:\Users\ahmed\Programming Advice\Algorithms&ProblemSolving_4\x64\Debug\Algorithms&ProblemSolving_4.exe
