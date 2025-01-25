@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-   cout << "Algorithms & ProblemSolving 8\n";
+   cout << "Algorithms & ProblemSolving \n";
 }
 
