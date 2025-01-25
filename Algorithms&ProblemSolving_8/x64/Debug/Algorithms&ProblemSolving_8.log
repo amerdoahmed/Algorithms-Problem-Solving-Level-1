@@ -1,0 +1,4 @@
+﻿  Algorithms&ProblemSolving_8.cpp
+C:\Users\ahmed\Programming Advice\Algorithms&ProblemSolving_8\Algorithms&ProblemSolving_8\Algorithms&ProblemSolving_8.cpp(32,15): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\ahmed\Programming Advice\Algorithms&ProblemSolving_8\Algorithms&ProblemSolving_8\Algorithms&ProblemSolving_8.cpp(33,15): warning C4305: '*=': truncation from 'double' to 'float'
+  Algorithms&ProblemSolving_8.vcxproj -> C:\Users\ahmed\Programming Advice\Algorithms&ProblemSolving_8\x64\Debug\Algorithms&ProblemSolving_8.exe
