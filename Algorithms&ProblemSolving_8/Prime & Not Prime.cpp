@@ -30,7 +30,7 @@ enPrimNotPrime CheckPrime(int Number)
 			return enPrimNotPrime::NotPrime;
 
 	}
-	return enPrimNotPrime::Prime;;
+	return enPrimNotPrime::Prime;
 }
 
 void PrintNumberType(int Number)
